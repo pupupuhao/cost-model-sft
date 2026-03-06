@@ -1,0 +1,10 @@
+{
+  "cost_full": {
+    "file_name": "cost_sample.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
